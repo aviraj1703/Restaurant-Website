@@ -1,4 +1,4 @@
-# Restaurent Website
+# Restaurant Website
 
 A restaurant website in which you can also reserve your table...
 
